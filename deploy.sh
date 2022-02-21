@@ -15,7 +15,7 @@ echo -e '\033[32;40m
  
 '
 
-echo -e "\033[32;40m [1] \033[0m commit 2 main branch"
+echo -e "\033[32;40m [1/1] \033[0m commit 2 main branch"
 
 git init
 git add -A
@@ -24,4 +24,4 @@ git commit -m '💖 deploy main branch.'
 # 如果你想要部署到 https://USERNAME.github.io
 git push -f git@github.com:Sogrey/slidev-template.git main
 
-echo -e "\033[32;40m done \033[0m "
+echo -e "\033[32;40m Done. \033[0m "
