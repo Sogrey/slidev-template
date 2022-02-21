@@ -3,7 +3,7 @@
   "scripts": {
     "build": "slidev build --base /slidev-template",
     "dev": "slidev --open",
-    "export": "slidev export --output dist",
+    "export": "slidev export --output ./dist/slidev-template.pdf",
     "deploy": "bash deploy.sh"
   },
   "dependencies": {
