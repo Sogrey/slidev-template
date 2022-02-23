@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to Slidev-template （base on [Slidev](https://github.com/slidevjs/slidev))!
 
 To start the slide show:
 
